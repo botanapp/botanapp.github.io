@@ -1,7 +1,6 @@
 {
     "dcaBotFundsUsedMaxUsage": "Funds used: Total amount of funds locked in active deals. Max usage: This is an estimate of the total amount of funds the bot requires with the settings it currently has configured. The value shown here is calculated if the bot is running the Maximum Active Deals allowed and with all configured Safety Orders filled.",
     "dcaBotCurrentPnl": "Current profit or loss total for all active deals of this bot",
-    "dcaBotReturns": "Bot returns for the last 30 days, calculated as a percentage of profit for the last 30 days from Max usage",
     "dcaBotFundsUsed": "Total amount of funds locked in active deals",
     "dcaBotMaxUsage": "This is an estimate of the total amount of funds the bot requires with the settings it currently has configured. The value shown here is calculated if the bot is running the Maximum Active Deals allowed and with all configured Safety Orders filled. Caclualtion is based on current rate.",
     "dcaBotReservedFunds": "Total amount of quote currency reserved in limit orders (for Safety orders)",
